@@ -3,7 +3,7 @@
 The web App is build using the React js with backend using Express js .This app only focous on frontEnd part , Redux Store , Form handling , Header.
 
 ## Backend
-I am using Express js ,Nulter for File upload for backend ,for backed code check out other repository for backend part.
+I am using Express js Multer for File upload for backend ,for backed code check out other repository for backend part.
 
 # image of Project
 
